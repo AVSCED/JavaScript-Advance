@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.mainCont{
+    padding-top: 5%;
+    padding-left: 3%;
+}
+
+.navBar{
+    display: flex;
+    padding-top: 4%;
+}
+
+.contentCont{
+    display: flex;
+}
+.table{
+    display: flex;
+}
+
+#table1{
+    padding-top: 5%;
+    margin-left: 10%;
+}
+
+th{ 
+    margin-left: 10%;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+td{
+    margin-left: 10%;
+    padding: 10px;
+    justify-content: center;
+}
+
+.nav{
+    padding-top: 2%;
+    justify-content: space-evenly;
+    display: flex;
+}
