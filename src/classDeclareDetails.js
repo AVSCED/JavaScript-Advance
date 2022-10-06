@@ -37,7 +37,7 @@ function display() {
       value.employeeName +
       "</td>" +
       "<td>" +
-      value.employeeName +
+      value.employeeSalary +
       "</td>" +
       "<td><button id='" +
       c +
